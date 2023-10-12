@@ -9,3 +9,4 @@ number - description (link to repository if it exists) : link to the deployed pr
 2 - The weather application (https://github.com/Olysar1/weather-website-andrew-mead-course) : https://weather-app-intt.onrender.com/;
 3 - Task manager API that allows to create user, user-specific tasks and manipulate them (https://github.com/Olysar1/task-manager-api-andrew-mead-course) : https://task-manager-api-twto.onrender.com (to see the endpoints and requests import attached file from this repository (file: Task App.postman_collection.json) into postman);
 4 - User management website that implements ability to delete or update user (https://github.com/Olysar1/smart-solutions-ai-test-project) : https://userscontrolpanel.netlify.app/
+5 - Basic chat application that lets the users in the same room send messages and location (https://github.com/Olysar1/chat-app-andrew-mead-course) : https://olysars-chat-app.onrender.com/
