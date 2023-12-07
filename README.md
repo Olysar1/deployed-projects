@@ -11,3 +11,4 @@ number - description (link to repository if it exists) : link to the deployed pr
 4 - User management website that implements ability to delete or update user (https://github.com/Olysar1/smart-solutions-ai-test-project) : https://userscontrolpanel.netlify.app/
 5 - Basic chat application that lets the users in the same room send messages and location (https://github.com/Olysar1/chat-app-andrew-mead-course) : https://olysars-chat-app.onrender.com/
 6 - Movie website to look the up movies by genres and by titles. You can checkout movie details and see the related movies (https://github.com/elenejavakhishvili638/movies) : https://movies-eta-livid.vercel.app/
+7 - Next.js practice dashboard web app (https://github.com/olysar2/next.js-practice) : https://next-dashboard-two-pi.vercel.app/
